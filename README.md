@@ -1,2 +1,3 @@
 # Classification
-Use classifier to predict the label of the future label of the credit fraud dataset
+Use logistic regression to predict the label of the future label of the credit fraud dataset
+
